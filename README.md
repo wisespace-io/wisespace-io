@@ -3,4 +3,4 @@
 
 - ⚡ Languages: Rust, typescript, python
 - 💬 Ping me about: blockchain, cyber security, wireless tech
-- 🎧 Hobbies : Music(https://www.youtube.com/channel/UCE8c7VnaYYkAxegKfD7NsgA), SciFi, Space News
+- 🎧 Hobbies : [Music](https://www.youtube.com/channel/UCE8c7VnaYYkAxegKfD7NsgA), SciFi, Space News
